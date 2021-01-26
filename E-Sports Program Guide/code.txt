@@ -1,0 +1,4 @@
+ background-image: url("../images/PSX_20210126_135624.jpg");
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
